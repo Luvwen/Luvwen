@@ -1,10 +1,10 @@
 <h1 align='center'>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, Im Santiago Baliño</h1>
 <h2 align='center'>I am a Front End developer from Argentina</h2>
 
-- 🔭 &nbsp;I’m currently working on projects with React
-- 🌱 &nbsp;I’m currently learning Jest with React Testing Library and more deeply Typescript
-- 📫 &nbsp;How to reach me: [Linkedin](https://twitter.com/gautamkrishnar)
-- 👨‍💻 &nbsp;View more about my projects at [Portafolio Santiago Baliño](https://portfolio-santiagobalino.vercel.app/)
+- 🔭 &nbsp;I’m currently working on projects with React.
+- 🌱 &nbsp;I’m currently learning PostgreSQL and more deeply Typescript.
+- 📫 &nbsp;How to reach me: [Linkedin](https://twitter.com/gautamkrishnar).
+- 👨‍💻 &nbsp;View more about my projects at [Portafolio Santiago Baliño](https://portfolio-santiagobalino.vercel.app/).
 - ⚡ &nbsp;Fun fact: I enjoy talk and play with friends even if we lose sometimes 😂
 
 <h3 align="left">Connect with me:</h3>
