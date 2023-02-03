@@ -2,7 +2,7 @@
 <h2 align='center'>I am a Front End developer from Argentina</h2>
 
 - 🔭 &nbsp;I’m currently working on projects with React.
-- 🌱 &nbsp;I’m currently learning PostgreSQL and more deeply Typescript.
+- 🌱 &nbsp;I’m currently learning PostgreSQL, SQL, Jest/Vitest and more deeply Typescript.
 - 📫 &nbsp;How to reach me: [Linkedin](https://twitter.com/gautamkrishnar).
 - 👨‍💻 &nbsp;View more about my projects at [Portafolio Santiago Baliño](https://portfolio-santiagobalino.vercel.app/).
 - ⚡ &nbsp;Fun fact: I enjoy talk and play with friends even if we lose sometimes 😂
