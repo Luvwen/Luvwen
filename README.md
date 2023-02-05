@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, Im Santiago Baliño</h1>
-<h3 align='center' >I am a Front End developer from Argentina</h3>
+<h3 align='center' >I am a Frontend developer from Argentina</h3>
 
 - 🔭 &nbsp;I’m currently working on projects with React.
 - 🌱 &nbsp;I’m currently learning PostgreSQL, SQL, Jest/Vitest and more deeply Typescript.
