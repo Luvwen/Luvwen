@@ -1,11 +1,8 @@
 <h1 align='center'>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, Im Santiago Baliño</h1>
-<h3 align='center' >I am a FullStack developer from Argentina</h3>
+<h3 align='center' >I am a Backend developer from Argentina</h3>
 
-- 🔭 &nbsp;I’m currently working with Node/Express/Sql Server.
-- 🌱 &nbsp;I’m currently learning about Java and MongoDB.
+- 🔭 &nbsp;I’m currently working with Java and nodejs.
 - 📫 &nbsp;How to reach me: [Linkedin](https://twitter.com/gautamkrishnar).
-- 👨‍💻 &nbsp;View more about my projects at [Portafolio Santiago Baliño](https://portfolio-santiagobalino.vercel.app/).
-- ⚡ &nbsp;Fun fact: I enjoy talk and play with friends even if we lose sometimes 😂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
